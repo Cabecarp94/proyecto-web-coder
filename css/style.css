@@ -1,30 +1,22 @@
+.header h1 nav div a {
+  width: 5rem;
+  height: auto;
+}
+.header h1 nav div a img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 62.5%;
-    scroll-behavior: smooth;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
-.navbar-brand {
-    width: 5rem;
-    height: auto;
-}
-
-.navbar-brand img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-}
-
-.icon img {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    border-radius: 0.5rem;
-}
-
+/*# sourceMappingURL=style.css.map */
